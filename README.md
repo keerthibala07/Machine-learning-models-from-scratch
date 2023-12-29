@@ -1,1 +1,1 @@
-# Machine-learning-models-from-scratch
+# Machine-learning-models-from-scratch-Supervised
